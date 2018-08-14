@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
         //mhmdsami
 
-        Toast.makeText(this, "Tasneem   ", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "ALex   ", Toast.LENGTH_SHORT).show();
     }
 }
