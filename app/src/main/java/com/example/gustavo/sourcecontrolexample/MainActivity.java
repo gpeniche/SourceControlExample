@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
         //mhmdsami
 
         Toast.makeText(this, "ALex   ", Toast.LENGTH_SHORT).show();
+
+        //add profile page
+        //this is issa pranch
     }
 }
